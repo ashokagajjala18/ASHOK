@@ -31,3 +31,11 @@ PS D:\GIT\hello-from-git> git commit -m "modified the code"
 PS D:\GIT\hello-from-git> git log
 
 PS D:\GIT\hello-from-git> git push
+
+PS D:\GIT\hello-from-git> git rm file1
+
+PS D:\GIT\hello-from-git> git add .
+
+PS D:\GIT\hello-from-git> git commit -m "deleted file1"
+
+PS D:\GIT\hello-from-git> git push
