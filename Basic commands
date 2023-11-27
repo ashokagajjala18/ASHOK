@@ -1,0 +1,33 @@
+PS D:\GIT> git config --global user.name "ashokagajjala18"
+PS D:\GIT> git config --global user.email "ashokagajjala18@gmail.com"
+
+PS D:\GIT> git init
+PS D:\GIT\hello-from-git> git status
+
+PS D:\GIT\hello-from-git> git add file1
+
+PS D:\GIT\hello-from-git> git status
+
+PS D:\GIT\hello-from-git> git commit -m "This is the file1"
+
+PS D:\GIT\hello-from-git> git log
+
+PS D:\GIT\hello-from-git> git branch -M main
+
+PS D:\GIT\hello-from-git> git remote add origin https://github.com/ashokagajjala18/ASHOK.git
+
+PS D:\GIT\hello-from-git> git push -u origin main
+
+PS D:\GIT\hello-from-git> git status 
+
+Write somthing in window and save it
+
+PS D:\GIT\hello-from-git> git diff
+
+PS D:\GIT\hello-from-git> git add file1
+
+PS D:\GIT\hello-from-git> git commit -m "modified the code"
+
+PS D:\GIT\hello-from-git> git log
+
+PS D:\GIT\hello-from-git> git push
